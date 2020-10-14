@@ -1,6 +1,6 @@
 public class BubbleSort {
 	public static void main(String[] args) {
-		
+		//TESTANDO MODIFICAÇÕES
 		int[] vetor = {4, 8, 20, 2, 10, 9, 30}; 
 		for (int i = 0; i < (vetor.length - 1); i++) {	
             for (int j = 0; j < (vetor.length - 1 - i); j++) { 
